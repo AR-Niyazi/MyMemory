@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777477782524",
+    "project_id": "my-memory-8f1c9",
+    "storage_bucket": "my-memory-8f1c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777477782524:android:b00af0916eb01c62d4d079",
+        "android_client_info": {
+          "package_name": "com.niyazi1.mymemory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777477782524-d4en0fphfbioaqdl51jvp30ng87pji91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRjVsWQUOG1ECUmQ6J46WRrB80zmuS7lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777477782524-d4en0fphfbioaqdl51jvp30ng87pji91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
